@@ -58,7 +58,7 @@ function attachEvents() {
                 const li = document.createElement('li');
                 li.textContent = comment.text;
 
-                postComments.appendChild(li);
+                postComments.appendChild(li)
             });
     }
 }
