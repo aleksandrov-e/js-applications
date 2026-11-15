@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "forum",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "C:\\Users\\Admin\\AppData\\Local\\Temp\\claude\\747b5be68a8b91e0\\be01986f-f742-45e6-b3d6-fd984d4c7b3a\\scratchpad\\static-server.js",
+        "C:\\Users\\Admin\\Desktop\\js-applications\\04-single-page-app\\01.Forum",
+        "3000"
+      ],
+      "port": 3000
+    }
+  ]
+}
